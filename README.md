@@ -1,3 +1,1 @@
-# PAF---Assignment
-
-Download the project & run the Jar file in IntelliJ IDEA
+# PAF-Project
